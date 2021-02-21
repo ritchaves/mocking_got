@@ -1,0 +1,223 @@
+[
+  {
+    "id": "1abc-sad",
+    "name": "Jon Snow",
+    "gender": "Male",
+    "culture": ["Northmen"],
+    "born": "In 283 AC",
+    "died": "",
+    "titles": [
+      "Lord Commander of the Night's Watch"
+    ],
+    "aliases": [
+      "Lord Snow",
+      "Ned Stark's Bastard",
+      "The Snow of Winterfell",
+      "The Crow-Come-Over",
+      "The 998th Lord Commander of the Night's Watch",
+      "The Bastard of Winterfell",
+      "The Black Bastard of the Wall",
+      "Lord Crow"
+    ]
+  },
+  {
+    "id": "21abc-sad",
+    "name": "Daenerys Targaryen",
+    "gender": "Female",
+    "culture": ["Valyrian"],
+    "born": "In 284 AC, at Dragonstone",
+    "died": "",
+    "titles": [
+      "Queen of the Andals and the Rhoynar and the First Men, Lord of the Seven Kingdoms",
+      "Khaleesi of the Great Grass Sea",
+      "Breaker of Shackles/Chains",
+      "Queen of Meereen",
+      "Princess of Dragonstone"
+    ],
+    "aliases": [
+      "Dany",
+      "Daenerys Stormborn",
+      "The Unburnt",
+      "Mother of Dragons",
+      "Mother",
+      "Mhysa",
+      "The Silver Queen",
+      "Silver Lady",
+      "Dragonmother",
+      "The Dragon Queen",
+      "The Mad King's daughter"
+    ]
+  },
+  {
+    "id": "31abc-sad",
+    "name": "Sansa Stark",
+    "gender": "Female",
+    "culture": ["Northmen"],
+    "born": "In 285 AC",
+    "died": "",
+    "titles": [
+      "Queen in the North",
+      "Lady of Winterfell",
+      "Wardeness of the North",
+      "Princess"
+    ],
+    "aliases": [
+      "Little dove",
+      "Little bird",
+      "Sansa Lannister",
+      "Alayne",
+      "Lady Stark",
+      "Lady Bolton"
+    ]
+  },
+  {
+    "id": "41abc-sad",
+    "name": "Arya Stark",
+    "gender": "Female",
+    "culture": ["Northman", "Braavosi"],
+    "born": "In 287 AC",
+    "died": "",
+    "titles": [
+      "Princess"
+    ],
+    "aliases": [
+      "Arry",
+      "Lanna",
+      "Mercy",
+      "Hero of Winterfell"
+    ]
+  },
+  {
+    "id": "51abc-sad",
+    "name": "Bran Stark",
+    "gender": "Male",
+    "culture": ["Northmen"],
+    "born": "In 288 AC",
+    "died": "",
+    "titles": [
+      "King of the Andals and the First Men",
+      "Lord of the Six Kingdoms",
+      "Protector of the Realm",
+      "Prince",
+      "Acting Lord of Winterfell"
+    ],
+    "aliases": [
+      "The Three-Eyed Raven",
+      "Little Lord",
+      "Bran the Broken"
+    ]
+  },
+  {
+    "id": "61abc-sad",
+    "name": "Cersei Lannister",
+    "gender": "Female",
+    "culture": ["Andal"],
+    "born": "In 262 AC",
+    "died": "In 305 AC",
+    "titles": [
+      "Queen of the Andals and the First Men",
+      "Protector of the Seven Kingdoms",
+      "Lady of Casterly Rock",
+      "Lady Paramount of the Westerlands",
+      "Wardeness of the West",
+      "Queen Mother",
+      "Queen Regent",
+      "Queen Consort"
+    ],
+    "aliases": [
+      "Cersei of the House Lannister, the First of Her Name",
+      "Cersei the Lioness",
+      "The mother of madness",
+      "The Queen on the Iron Throne"
+    ]
+  },
+  {
+    "id": "71abc-sad",
+    "name": "Jamie Lannister",
+    "gender": "Male",
+    "culture": ["Andal"],
+    "born": "In 262 AC",
+    "died": "In 305 AC",
+    "titles": [
+      "Queen of the Andals and the First Men",
+      "Protector of the Seven Kingdoms",
+      "Lady of Casterly Rock",
+      "Lady Paramount of the Westerlands",
+      "Wardeness of the West",
+      "Queen Mother",
+      "Queen Regent",
+      "Queen Consort"
+    ],
+    "aliases": [
+      "Ser",
+      "Lord Commander of the Kingsguard"
+    ]
+  },
+  {
+    "id": "81abc-sad",
+    "name": "Tyrion Lannister",
+    "gender": "Male",
+    "culture": ["Andal"],
+    "born": "In 266 AC",
+    "died": "",
+    "titles": [
+      "Lord of Casterly Rock",
+      "Lord Paramount of the Westerlands",
+      "Warden of the West",
+      "Hand of the King",
+      "Hand of the Queen",
+      "Master of Coin",
+      "Acting Hand of the King"
+    ],
+    "aliases": [
+      "The Imp",
+      "The Halfman",
+      "The Little Lion",
+      "Demon monkey",
+      "The Dwarf of Casterly Rock",
+      "The Bloody Hand"
+    ]
+  },
+  {
+    "id": "91abc-sad",
+    "name": "Theon Greyjoy",
+    "gender": "Male",
+    "culture": ["Ironborn"],
+    "born": "In 281 AC",
+    "died": "In 305 AC",
+    "titles": [
+      "Prince",
+      "Lord of Winterfell",
+      "Prince of Winterfell"
+    ],
+    "aliases": [
+      "Reek",
+      "Little Theon"
+    ]
+  },
+  {
+    "id": "101abc-sad",
+    "name": "Olenna Tyrell",
+    "gender": "Female",
+    "culture": ["Andal"],
+    "born": "In 228 AC",
+    "died": "In 304 AC",
+    "titles": [
+      "Lady of Highgarden"
+    ],
+    "aliases": [
+      "Olenna Redwyne",
+      "Queen of Thorns"
+    ]
+  },
+  {
+    "id": "111abc-sad",
+    "name": "Ygritte",
+    "gender": "Female",
+    "culture": ["Free Folk"],
+    "born": "",
+    "died": "In 301 AC",
+    "titles": [],
+    "aliases": []
+  }
+]
